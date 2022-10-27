@@ -1,5 +1,5 @@
 # Implenting-Multi-attribute-Linear-Hashing-Database-Algorithm
-The goal is to build a simple implementation of a linear-hashed file structure that uses multi-attribute hashing.
+Implementation of a linear-hashed file structure that uses multi-attribute hashing to store tuples in a database.
 
 Link to specification of program:
 
